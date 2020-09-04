@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerTest</string>
+
+    <string-array name="course_array">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+        <item>JS</item>
+        <item>Python</item>
+        <item>DataScience</item>
+    </string-array>
+</resources>
